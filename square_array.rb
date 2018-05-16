@@ -1,9 +1,9 @@
-def square_array(numbers)
-  new_numbers = []
-  numbers.each{|square| new_numbers << square**2}
+#def square_array(numbers)
+  #new_numbers = []
+  #numbers.each{|square| new_numbers << square**2}
     
-  new_numbers
-end
+  #new_numbers
+#end
 
 def square_array(numbers)
  
